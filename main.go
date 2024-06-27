@@ -7,5 +7,5 @@ func main() {
     fmt.Println("Hello, newworld!")
     fmt.Println("somes dfchangesnext next")
     fmt.Println("Hello,World!")
-    fmt.Println("changed")
+    fmt.Println("change d")
 }
