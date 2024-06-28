@@ -7,5 +7,5 @@ func main() {
     fmt.Println("He llo,newworld!")
     fmt.Println("somes dfc   han gesnext next")
     fmt.Println("Hello,World!")
-    fmt.Println("chan   ge d")
+    fmt.Println("ch   an   ge d")
 }
